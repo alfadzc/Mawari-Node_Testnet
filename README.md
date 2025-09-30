@@ -71,7 +71,7 @@ nano docker-compose.yaml
 ```
 
 ### #Create Service and Configuration<br>
-* Replace <0xYOUR-EVM-ADDRESS-HERE> with the EVM Address that you claimed Faucet on the previous.  
+* Replace <0xYOUR-EVM-ADDRESS-HERE> with the EVM Address that you claimed Faucet on the previous step. 
 
 ```
 services:
