@@ -4,16 +4,26 @@
 
 <hr style="border: 2px solid #555; border-radius: 5px; box-shadow: 0 0 5px #555;" />
 
-# #How to Run Mawari Guardian Node Testnet
+# 📑 How to Run Mawari Guardian Node Testnet
 ## #Follow the 4 steps below
-1.  Claim Faucet                                             
+1. Claim Faucet                                             
 2. Mint NFT Guardian Node
 3. Run Guardian Node
 4. Delegate Guardian Node
 
+5. 
+## 📑Follow the 4 steps below
+1. [Step 1: Claim Faucet](#step-1-claim-faucet)  
+2. [Step 2: Mint NFT Guardian Node](#step-2-mint-nft-guardian-node)  
+3. [Step 3: Run Guardian Node](#step-3-run-guardian-node)  
+4. [Step 4: Delegate Guardian Node](#step-4-delegate-guardian-node)   
+
+
+
+
 <hr style="border: 2px solid #555; border-radius: 5px; box-shadow: 0 0 5px #555;" />
 
-# #Step-1 Claim Faucet  [***Here***](https://hub.testnet.mawari.net)  
+# #Step-1 Claim Faucet  [***Here***](https://hub.testnet.mawari.net)<br>
 
 <img width="911" height="592" alt="Screenshot 2025-09-30 090506" src="https://github.com/user-attachments/assets/c10512d7-8440-4b10-9ac7-a120858c728a" /><br>
 
