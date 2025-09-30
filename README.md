@@ -4,8 +4,8 @@
 
 <hr style="border: 2px solid #555; border-radius: 5px; box-shadow: 0 0 5px #555;" />
 
-# 📑 How to Run Mawari Guardian Node Testnet<br>
-## 📑Follow the 4 steps below
+# 📑 How to Run Mawari Guardian Node Testnet
+## 📑Follow the 4 steps below<br>
 1. [Step 1: Claim Faucet](#step-1-claim-faucet)  
 2. [Step 2: Mint NFT Guardian Node](#step-2-mint-nft-guardian-node)  
 3. [Step 3: Run Guardian Node](#step-3-run-guardian-node)  
